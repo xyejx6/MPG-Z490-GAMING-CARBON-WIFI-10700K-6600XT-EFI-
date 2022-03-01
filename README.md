@@ -1,3 +1,4 @@
+[微星490暗黑 10700K  6600XT EFI.zip](https://github.com/xyejx6/-490-10700K-6600XT-EFI-/files/8162081/490.10700K.6600XT.EFI.zip)
 EFI OC版本 0.7.7
      微星490暗黑 10700K  6600XT EFI 带主题       主板BIOS设置自行爬楼
       ！安装系统时U盘插2.0端口     
