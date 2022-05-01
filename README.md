@@ -1,4 +1,4 @@
-             MPG Z490 CARBON WIFI  10700K  6600XT 
+MPG Z490 CARBON WIFI  10700K  6600XT 
      
       
       
