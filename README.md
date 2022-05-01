@@ -1,5 +1,7 @@
 [MPG Z490 CARBON WIFI  10700K  6600XT OC版本0.7.9(https://github.com/xyejx6/MPG-Z490-GAMING-CARBON-WIFI-10700K-6600XT-EFI-/files/8598892/MPG.Z490.CARBON.WIFI.10700K.6600XT.94360CD.OC.0.7.9.zip)
  EFI.zip]
+      
+      
       OC版本 0.7.9
      微星490暗黑 10700K  6600XT EFI 带主题      
      主板BIOS设置自行爬楼
