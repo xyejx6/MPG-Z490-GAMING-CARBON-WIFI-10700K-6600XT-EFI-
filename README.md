@@ -1,9 +1,9 @@
-[MPG Z490 CARBON WIFI  10700K  6600XT 
-        OC版本0.7.9
+             MPG Z490 CARBON WIFI  10700K  6600XT 
+     
       
       
-      OC版本 0.7.9
-     微星490暗黑 10700K  6600XT EFI 带主题      
+     
+     微星490暗黑 10700K  6600XT EFI 带主题  OC版本 0.7.9     
      主板BIOS设置自行爬楼
      ！安装系统时U盘插2.0端口     
    EFI 支持  Monterey   Big Sur
