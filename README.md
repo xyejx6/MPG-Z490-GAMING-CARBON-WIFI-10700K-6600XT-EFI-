@@ -1,9 +1,10 @@
+[MSI 490暗黑OC 0.8.7 7z.zip](https://github.com/xyejx6/MPG-Z490-GAMING-CARBON-WIFI-10700K-6600XT-EFI-/files/10228794/MSI.490.OC.0.8.7.7z.zip)
 MPG Z490 CARBON WIFI  10700K  6600XT 
      
       
       
      
-     微星490暗黑 10700K  6600XT EFI 带主题  OC版本 0.7.9     
+     微星490暗黑 10700K  6600XT EFI 带主题  OC版本 0.8.7     
      主板BIOS设置自行爬楼
      ！安装系统时U盘插2.0端口     
    EFI 支持  Monterey   Big Sur
@@ -26,7 +27,5 @@ MPG Z490 CARBON WIFI  10700K  6600XT
 
 9.睡眠正常，睿频正常，核显加速正常
   
-10.网友测试可正常引导
- 
-11.上传位置错了，直接点击那个.zip就可以下载了
+10.上传位置错了，直接点击那个.zip就可以下载了
 
